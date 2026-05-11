@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Plan de Bienvenue"
             }
+          },
+          {
+            "id": "4d5b036cf2967fda",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,9 +196,9 @@
   },
   "active": "ad1d99e1ee29b0d7",
   "lastOpenFiles": [
-    "créez un lien.md",
-    "Bienvenue.md",
     "2026-05-11.md",
+    "Bienvenue.md",
+    "créez un lien.md",
     "Sans titre.canvas",
     "Sans titre 1.canvas"
   ]
